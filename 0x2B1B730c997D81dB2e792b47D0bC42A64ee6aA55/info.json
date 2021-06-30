@@ -1,0 +1,11 @@
+{
+   "name": "EDUFEX Token",
+   "website": "https://www.edufex.com/",
+   "description": "We offer our online courses and ensure students can achieve certification on Blockchain Network.",
+   "explorer": "https://bscscan.com/token/0x2b1b730c997d81db2e792b47d0bc42a64ee6aa55",
+   "type": "BEP20",
+   "symbol": "EDUX",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x2B1B730c997D81dB2e792b47D0bC42A64ee6aA55"
+}
